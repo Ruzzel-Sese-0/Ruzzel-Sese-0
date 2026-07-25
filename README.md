@@ -12,6 +12,7 @@ This portfolio highlights my hands-on projects, security assessments, and learni
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ruzzel-sese-0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Challenge: Azuki - Port Of Entry](https://github.com/Ruzzel-Sese-0/threat-hunting-challenge-azuki-port-of-entry)**
 
 <hr/>
 

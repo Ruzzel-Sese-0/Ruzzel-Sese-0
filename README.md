@@ -11,9 +11,10 @@ This portfolio highlights my hands-on projects, security assessments, and learni
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/ruzzel-sese-0/threat-hunting-scenario-tor)**
-- **[Threat Hunting Challenge: Azuki - Port Of Entry](https://github.com/Ruzzel-Sese-0/threat-hunting-challenge-azuki-port-of-entry)**
-- **[Threat Hunting Challenge: Azuki - Cargo Hold](https://github.com/Ruzzel-Sese-0/threat-hunting-challenge-azuki-cargo-hold)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Ruzzel-Sese-0/Threat-Hunt/tree/main/Threat-hunts/threat-hunting-scenario-tor)**
+- **[Threat Hunting Challenge: Azuki - Port Of Entry](https://github.com/Ruzzel-Sese-0/Threat-Hunt/tree/main/Threat-hunts/threat-hunting-challenge-azuki-port-of-entry)**
+- **[Threat Hunting Challenge: Azuki - Cargo Hold](https://github.com/Ruzzel-Sese-0/Threat-Hunt/tree/main/Threat-hunts/threat-hunting-challenge-azuki-cargo-hold)**
+- **[Threat Hunting Challenge: Azuki - Bridge Takeover](https://github.com/Ruzzel-Sese-0/Threat-Hunt/tree/main/Threat-hunts/threat-hunting-challenge-azuki-bridge-takeover)**
 
 <hr/>
 
